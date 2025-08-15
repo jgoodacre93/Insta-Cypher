@@ -102,3 +102,7 @@ Error Screenshot:
 
 - This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
 - Also checkout [Additional Notes For Liscense](Additional-Note).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pralinkhaira/Insta-Cypher&type=Date)](https://www.star-history.com/#pralinkhaira/Insta-Cypher&Date)
